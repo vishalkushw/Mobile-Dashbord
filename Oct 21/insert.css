@@ -1,0 +1,52 @@
+.main{
+    background-color: rgb(184, 216, 224);
+    margin-top: 1px;
+    text-align: center;
+    
+}
+
+h1{
+    color: rgb(50, 42, 165);
+    margin-top: 80px;
+    background-color: blueviolet;
+    width: 32%;
+    height: 40px;
+    margin-left: 34%;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+h2{
+    color: rgb(20, 122, 255);
+}
+
+h2:hover{
+    color: brown;
+    width: 90%;
+    margin-left: 10%;
+}
+
+
+
+#mname,#modl,#lyear,#mprice{
+border-radius: 40px;
+border: none;
+width: 15%;
+height: 30px;
+margin-left: 20px;
+background-color: cadetblue;
+color: azure;
+font-size: 30px;
+text-align: center;
+}
+
+#btnsave{
+    background-color: blue;
+    width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    color: beige;
+    border: none;
+    font-size: large;
+}

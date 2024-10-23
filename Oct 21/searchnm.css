@@ -1,0 +1,66 @@
+
+        h1{
+            color: rgb(50, 42, 165);
+            margin-top: 80px;
+            background-color: blueviolet;
+            width: 32%;
+            height: 40px;
+            margin-left: 34%;
+            align-items: center;
+            border-radius: 10px;
+            text-align: center;
+            
+        }
+        h2{
+            color: rgb(20, 122, 255);
+            text-align: center;
+            margin-top: 40px;
+        }
+        
+        h2:hover{
+            color: brown;
+            width: 90%;
+            margin-left: 10%;
+        }
+
+        
+#mname{
+    border-radius: 40px;
+    border: none;
+    width: 15%;
+    height: 30px;
+    background-color: cadetblue;
+    color: azure;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    }
+
+
+    #txt1{
+        border-radius: 40px;
+        border: none;
+        width: 15%;
+        height: 30px;
+        background-color: cadetblue;
+        color: azure;
+        font-size: 30px;
+        text-align: center;
+        align-items: center;
+        }
+
+
+        #btn1{
+            background-color: blue;
+            width: 80px;
+            height: 40px;
+            border-radius: 40px;
+            color: beige;
+            border: none;
+            font-size: large;
+            align-items: center;
+            margin-left: 47%;
+            margin-top: 20px;
+        }
+        
+    

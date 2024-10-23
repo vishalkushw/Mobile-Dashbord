@@ -1,0 +1,64 @@
+{
+  "mobile": [
+    {
+      "id": "10",
+      "mobilename": "oneplus",
+      "model": "10 pro",
+      "launchyear": "23-07-2021",
+      "price": "34600"
+    },
+    {
+      "id": "11",
+      "mobilename": "samsung",
+      "model": "Galaxy s22",
+      "launchyear": "23-07-2024",
+      "price": "66600"
+    },
+    {
+      "id": "66",
+      "mobilename": "oppo",
+      "model": "Reno 6",
+      "launchyear": "23-08-2023",
+      "price": "34400"
+    },
+    {
+      "id": "44",
+      "mobilename": "Lava",
+      "model": "z2",
+      "launchyear": "20-08-2010",
+      "price": "21000",
+      "mobilenamename": "Lava"
+    },
+    {
+      "id": "3285",
+      "mobilename": "poko",
+      "model": "c3",
+      "launchyear": "23-04-2021",
+      "price": "23000",
+      "mobilenamename": "poco"
+    },
+    {
+      "id": "45",
+      "mobilename": "apple",
+      "model": "14pro",
+      "launchyear": "20-06-2024",
+      "price": "126000",
+      "mobilenamename": "apples"
+    },
+    {
+      "id": "4465",
+      "mobilename": "vivo",
+      "model": "s1200",
+      "launchyear": "23-09-2023",
+      "price": "5600",
+      "mobilenamename": "vivos"
+    },
+    {
+      "id": "a7cb",
+      "mobilename": "nokia",
+      "model": "s1",
+      "launchyear": "02-07-2023",
+      "price": "2300"
+    }
+  ]
+}
